@@ -1,0 +1,7 @@
+{
+  "name": "Ionic-Localisation",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
